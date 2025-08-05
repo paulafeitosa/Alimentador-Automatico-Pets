@@ -29,7 +29,7 @@ Este projeto consiste no desenvolvimento de um **alimentador automático para an
    git clone https://github.com/seu-usuario/seu-repositorio.git
    ```
 
-2. Abra o arquivo `Alimentador_Paula.ino` no **Arduino IDE** ou **PlatformIO**.
+2. Abra o arquivo `Alimentador_Paula.ino` no **Arduino IDE**.
 
 3. Instale a biblioteca necessária:
    - `ESP32Servo` (pode ser instalada diretamente pela Arduino IDE)
